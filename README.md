@@ -13,6 +13,7 @@ This assignment cover some of the following subjects:
 2. Threads
 3. Design Patterns
 4. MVC
+5. OOP
 
 ## How to:
 1. Download the code and **run** it in Eclipse JAVA environment.
